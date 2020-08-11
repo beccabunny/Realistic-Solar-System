@@ -11,4 +11,5 @@ With this plugin, it gets:
 - 20 moons
 - 2 dwarf planets
 - a 450x450 star
+
 And all of this with 31 unique sprites, plus other 30 high DPI ones included in the package!
